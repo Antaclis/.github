@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-The public landing page of Quantevia is currently under construction. Stay tuned!
+The public landing page of Antaclis is currently under construction. Stay tuned!
 <!--
 
 **Here are some ideas to get you started:**
